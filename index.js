@@ -18,4 +18,6 @@ function divide(a,b){
   return(a/b)
 }
 
-function in
+function inc(n){
+  return(n)
+}
