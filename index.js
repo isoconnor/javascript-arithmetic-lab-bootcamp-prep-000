@@ -3,5 +3,6 @@ var b = 1
 
 
 function add() {
+  var a,
   return(a += b)
 }
